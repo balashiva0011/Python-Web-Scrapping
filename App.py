@@ -1,3 +1,10 @@
+
+
+# This project is a web scraper that extracts product details from an Amazon page using Python (BeautifulSoup, Requests, lxml).
+# It collects data like product title, price, rating, description, and reviews, then saves it to a CSV file for further use. 
+# The script sends a GET request to the page, parses the HTML, extracts key details, and writes them to the CSV.
+
+
 # This app scrap product data from amazon website
 
 # BeautifulSoup4
